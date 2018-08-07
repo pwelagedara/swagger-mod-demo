@@ -1,0 +1,16 @@
+{
+  "name": "swagger-mod-demo",
+  "version": "1.0.0",
+  "description": "Swagger-mod npm package demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pubudu Welagedara",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "swagger-mod": "^1.1.7"
+  }
+}
